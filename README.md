@@ -2,7 +2,7 @@
 Simple Chat Application Project using Java Socket Programming
 
 This project will develop a simple chat application using Java Socket programming. 
-The application will allow users to chat with each other in real time.
+The application will allow users to chat with each other in real time. Server (ServerSocket) and Client(Socket)
 
 Requirements :
 - Basic knowledge of Java, including object-oriented programming (OOP)
